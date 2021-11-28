@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://admin:admin@clouddrive.yby1w.mongodb.net/CloudDrive?retryWrites=true&w=majority",
+  "secretKey": "MERN-CloudDrive"
+}

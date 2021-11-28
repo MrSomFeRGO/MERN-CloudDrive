@@ -1,0 +1,16 @@
+input {
+  border: none;
+  border-bottom: #566885 solid 3px;
+  background: transparent;
+  width: 85%;
+  padding: 3px;
+}
+input:focus {
+  outline: none;
+  transform: scale(1.01);
+}
+input::placeholder {
+  color: #566885;
+  font-weight: 700;
+}
+/*# sourceMappingURL=input.css.map */
